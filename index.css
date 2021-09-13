@@ -1,0 +1,22 @@
+table{
+    background-color: aquamarine;
+    margin: auto;
+}
+
+#result{
+    width: 198px;
+    height: 40px;
+}
+
+.btn{
+    width: 36px;
+    height: 32px;
+}
+
+.btn_bang{
+    height: 64px;
+}
+
+.btn_bang:hover{
+    background-color: rgb(228, 183, 183);
+}
